@@ -1,0 +1,9 @@
+[submodule "Advanced-Java-Project-Client"]
+	path = Advanced-Java-Project-Client
+	url = https://github.com/NicoleDavidov/Advanced-Java-Project-Client.git
+[submodule "Advanced-Java-Project-Server"]
+	path = Advanced-Java-Project-Server
+	url = https://github.com/NicoleDavidov/Advanced-Java-Project-Server.git
+[submodule "Advanced-Java-Algorithm-Model"]
+	path = Advanced-Java-Algorithm-Model
+	url = https://github.com/NicoleDavidov/Advanced-Java-Algorithm-Model.git
